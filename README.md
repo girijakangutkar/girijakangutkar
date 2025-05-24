@@ -4,7 +4,10 @@
 - 🌱 I’m currently learning **Angular**, **React js**, **Node js**, **Mongodb**, **Express js**
 
 - 📫 How to reach me **kangutkargirija075@gmail.com**
+<p><img align="center" src="https://github-profile-trophy.vercel.app/?username=girijakangutkar" alt="girijakangutkar" /></p>
 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=girijakangutkar&label=Profile%20views&color=0e75b6&style=flat" alt="Girija Kangutkar" /> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/girija-kangutkar-47a83b279" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="girija-kangutkar-47a83b279" height="30" width="40" /></a>
@@ -32,4 +35,7 @@
 
 </div>
 
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=girijakangutkar&show_icons=true&locale=en&layout=compact" alt="Girija Kangutkar" /> </p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=girijakangutkar&" alt="girijakangutkar" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=girijakangutkar&" alt="girijakangutkar" /></p>
