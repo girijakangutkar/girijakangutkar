@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Girija Kangutkar</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
 
+
 - 🌱 I’m currently learning **Angular**, **React js**, **Node js**, **Mongodb**, **Express js**
 
 - 📫 How to reach me **kangutkargirija075@gmail.com**
 <p><img align="center" src="https://github-profile-trophy.vercel.app/?username=girijakangutkar" alt="girijakangutkar" /></p>
-
+<p><img align="center" src="https://girijakangutkar-portfolio.vercel.app/" alt="girijakangutkar" /></p>
+<h3>y portfolio: </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=girijakangutkar&label=Profile%20views&color=0e75b6&style=flat" alt="Girija Kangutkar" /> </p>
 <h3 align="left">Connect with me:</h3>
