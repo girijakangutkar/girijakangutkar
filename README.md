@@ -19,7 +19,7 @@
 - 🌱 I'm currently learning **Angular**, **React.js**, **Node.js**, **MongoDB**, **Express.js**
 - 💬 Ask me about **Python, Django, React, and full-stack development**
 - 📫 How to reach me: **kangutkargirija075@gmail.com**
-- 🌐 Check out my portfolio: **[girijakangutkar-portfolio.vercel.app](https://girijakangutkar-portfolio.vercel.app/)**
+- 🌐 Check out my portfolio: **[girijakangutkar-portfolio.vercel.app](https://girija-kangutkar-portfolio-nine.vercel.app/)**
 - ⚡ Fun fact: **I love turning ideas into reality with code!**
 
 ---
@@ -71,9 +71,9 @@
 <a href="https://linkedin.com/in/girija-kangutkar-47a83b279" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="https://instagram.com/ginnny.g" target="_blank">
+<!-- <a href="https://instagram.com/ginnny.g" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-</a>
+</a> -->
 <a href="mailto:kangutkargirija075@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
