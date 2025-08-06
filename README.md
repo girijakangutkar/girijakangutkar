@@ -53,7 +53,7 @@
 
 **Databases & Cloud**
 <br/><br/>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,azure" alt="Database & Cloud Skills" />
+<img src="https://skillicons.dev/icons?i=mongodb,firebase" alt="Database & Cloud Skills" />
 <br/><br/>
 
 **Tools & Others**
