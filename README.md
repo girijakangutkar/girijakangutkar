@@ -43,7 +43,7 @@
 
 **Frontend Technologies**
 <br/><br/>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,angular,bootstrap" alt="Frontend Skills" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react, tailwind css,bootstrap" alt="Frontend Skills" />
 <br/><br/>
 
 **Backend Technologies**
