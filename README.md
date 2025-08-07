@@ -58,7 +58,7 @@
 
 **Tools & Others**
 <br/><br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" alt="Tools" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" alt="Tools" />
 
 </div>
 
